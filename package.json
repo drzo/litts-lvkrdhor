@@ -1,0 +1,12 @@
+{
+  "name": "@components-studio/drzo.litts-lvkrdhor",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve FLavhE4Hwe8IJCRtVvD5 --open"
+  },
+  "dependencies": {}
+}
